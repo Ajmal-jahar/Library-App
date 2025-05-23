@@ -1,12 +1,49 @@
-# React + Vite
+# 📚 LIBAPP Library App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and mobile-friendly web application for exploring books from the Gutenberg API. Users can browse books by category, view details, select up to 5 books (with a max of 3 per category), and proceed to checkout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📖 Browse books from the [Gutenberg Project API](https://gutendex.com)
+- 🎯 Filter books by category (e.g., Fiction, History, Drama)
+- 📄 Detailed book pages
+- ➕ Add books to a checkout list (max 5 total, 3 per category)
+- 🧮 State management with Zustand
+- ⚡ Fast and responsive UI using Bootstrap 5
+- 🔍 Category navigation and read-friendly interface
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🛠 Tech Stack
+- 
+- React
+- React Router DOM
+- Zustand (state management)
+- Axios (API calls)
+- Bootstrap 5 (UI)
+- JavaScript (ES6+)
+
+- ⚙️ Getting Started
+
+1. Clone the repository
+
+ git clone https://github.com/Ajmal-jahar/Library-App.git
+1.cd libraryapp
+2.npm install
+3.npm run dev
+
+App will be running at http://localhost:5173
+
+for login, use valid email address and password not less than 6
+
+example:
+Email: user@example.com
+Password: password123
+
+🧪 Testing the App
+
+No external testing tools are needed. To test the app manually:
+Start the app with npm run dev.
+Navigate to the Home Page and try selecting books.
+Ensure book limits are enforced (max 5 total, 3 per category).
+Try viewing book details and using the checkout page.
