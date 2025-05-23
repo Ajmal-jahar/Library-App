@@ -27,13 +27,13 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 
 1. Clone the repository
 
- git clone https://github.com/Ajmal-jahar/Library-App.git
+  git clone https://github.com/Ajmal-jahar/Library-App.git
  
-1.cd libraryapp
+  1.cd libraryapp
 
-2.npm install
+  2.npm install
 
-3.npm run dev
+  3.npm run dev
 
 App will be running at http://localhost:5173
 
@@ -41,12 +41,17 @@ for login, use valid email address and password not less than 6
 
 example:
 Email: user@example.com
+
 Password: password123
 
 🧪 Testing the App
 
 No external testing tools are needed. To test the app manually:
+
 Start the app with npm run dev.
+
 Navigate to the Home Page and try selecting books.
+
 Ensure book limits are enforced (max 5 total, 3 per category).
+
 Try viewing book details and using the checkout page.
