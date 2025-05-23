@@ -14,6 +14,8 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 - ⚡ Fast and responsive UI using Bootstrap 5
 - 🔍 Category navigation and read-friendly interface
 
+---
+
  🛠 Tech Stack
 
 - React
@@ -22,6 +24,8 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 - Axios (API calls)
 - Bootstrap 5 (UI)
 - JavaScript (ES6+)
+
+---
 
 ⚙️ Getting Started
 
@@ -43,6 +47,8 @@ example:
 Email: user@example.com
 
 Password: password123
+
+---
 
 🧪 Testing the App
 
