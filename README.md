@@ -14,8 +14,8 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 - ⚡ Fast and responsive UI using Bootstrap 5
 - 🔍 Category navigation and read-friendly interface
 
-- 🛠 Tech Stack
-- 
+ 🛠 Tech Stack
+
 - React
 - React Router DOM
 - Zustand (state management)
@@ -23,13 +23,16 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 - Bootstrap 5 (UI)
 - JavaScript (ES6+)
 
-- ⚙️ Getting Started
+⚙️ Getting Started
 
 1. Clone the repository
 
  git clone https://github.com/Ajmal-jahar/Library-App.git
+ 
 1.cd libraryapp
+
 2.npm install
+
 3.npm run dev
 
 App will be running at http://localhost:5173
