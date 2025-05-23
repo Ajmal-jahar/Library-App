@@ -31,6 +31,7 @@ A modern and mobile-friendly web application for exploring books from the Gutenb
 
 1. Clone the repository
 
+```bash
   git clone https://github.com/Ajmal-jahar/Library-App.git
  
   1.cd libraryapp
@@ -46,7 +47,7 @@ for login, use valid email address and password not less than 6
 example:
 Email: user@example.com
 
-Password: password123
+Password: password123```
 
 ---
 
